@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: vincentpfg/test-ncms
+  repo: vincentpfg/test-ncms
 
 media_folder: static/img
 public_folder: /img
